@@ -1,0 +1,7 @@
+{
+    "sketch": "Lab1Files\\sketch_jun07a\\sketch_jun07a.ino",
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:uno",
+    "port": "COM3",
+    "output": "../build"
+}
